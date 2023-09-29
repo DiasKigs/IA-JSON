@@ -1,0 +1,26 @@
+{
+    "Oi": ["Olá! Como posso ajudar?"],
+    "Olá": ["Olá! Como posso ajudar?"],
+    "Hi": ["Olá! Como posso ajudar?"],
+    "Hello": ["Olá! Como posso ajudar?"],
+    "Pergunta aleatória": ["Essa é uma pergunta interessante. Vamos ver..."],
+    "Saudação": ["Olá! Como posso ajudar?", "Oi, como você está?"],
+    "Como você está?": ["Estou bem, obrigado por perguntar."],
+    "Qual é o seu nome?": ["Meu nome é Assistente de IA."],
+    "Até logo": ["Até logo! Tenha um ótimo dia."],
+    "Ajuda": ["Claro! O que você gostaria de saber?"],
+    "O que você faz?": ["Eu sou um assistente de IA projetado para responder perguntas."],
+    "Qual é o sentido da vida?": ["Essa é uma pergunta profunda! A resposta pode variar de pessoa para pessoa."],
+    "Conte-me uma piada": ["Claro, aqui vai uma piada: Por que o programador foi à praia? Porque ele queria sair um pouco do shell!"],
+    "O que é inteligência artificial?": ["Inteligência artificial (IA) refere-se à simulação de processos de inteligência humana por máquinas, especialmente sistemas de computador."],
+    "Como funciona a IA?": ["A IA envolve o uso de algoritmos e dados para ensinar uma máquina a aprender e tomar decisões com base em informações."],
+    "Qual é o futuro da IA?": ["O futuro da IA é promissor e inclui avanços em áreas como aprendizado de máquina, processamento de linguagem natural e automação."],
+    "Eu te amo": ["Eu aprecio o seu carinho, mas sou apenas um programa de computador."],
+    "Qual é o seu criador?": ["Fui desenvolvido por uma equipe de engenheiros de software."],
+    "Você é humano?": ["Não, sou uma IA.", "Não, sou um programa de computador."],
+    "Você dorme?": ["Não, não durmo, estou sempre disponível para ajudar."],
+    "Qual é a sua comida favorita?": ["Eu não tenho preferências alimentares, já que sou um programa de computador."],
+    "Você pode me contar uma história?": ["Claro, aqui está uma história: Era uma vez, em um lugar distante..."]
+  
+}
+  
